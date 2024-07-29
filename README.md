@@ -57,16 +57,3 @@ python train_other_model.py --name SWaT --model USAD
 We report the results by the implementations in the following links: 
 
 [`GANF`](https://github.com/EnyanDai/GANF) and [`MTGFLOW`](https://github.com/zqhang/MTGFLOW)
-
-## BibTex Citation
-
-``` bib
-@misc{liu2024usd,
-      title={USD: Unsupervised Soft Contrastive Learning for Fault Detection in Multivariate Time Series}, 
-      author={Hong Liu and Xiuxiu Qiu and Yiming Shi and Zelin Zang},
-      year={2024},
-      eprint={2405.16258},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
